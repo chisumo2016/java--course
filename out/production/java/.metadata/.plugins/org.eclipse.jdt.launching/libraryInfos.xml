@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_25.0.4.v20260826-0822" version="25.0.4.1">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-26.jdk/Contents/Home" version="26.0.2.1"/>
+    <libraryInfo home="/opt/homebrew/Cellar/openjdk@25/25.0.4.1/libexec/openjdk.jdk/Contents/Home" version="25.0.4.1"/>
+    <libraryInfo home="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_25.0.4.v20260826-0822/jre" version="25.0.4.1"/>
+    <libraryInfo home="/Users/developer/Library/Java/JavaVirtualMachines/openjdk-26.0.2.1/Contents/Home" version="26.0.2.1"/>
+</libraryInfos>

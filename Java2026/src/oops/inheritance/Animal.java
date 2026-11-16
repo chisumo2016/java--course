@@ -1,0 +1,17 @@
+package oops.inheritance;
+
+public class Animal extends Organism {
+    boolean isAlive;
+
+    Animal(){
+        isAlive = true;
+    }
+
+    void eat(){
+        System.out.println("This animal is eating");
+    }
+
+    void sleep(){
+        System.out.println("This animal is sleeping");
+    }
+}
